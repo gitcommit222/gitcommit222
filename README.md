@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Threads Clone**
 
-- 🌱 I’m currently learning **TypeScript and Next.js 13**
+- 🌱 I’m currently learning **Python FastAPI**
 
 - 👨‍💻 All of my projects are available at [marnel-valentin.vercel.app](marnel-valentin.vercel.app)
 
